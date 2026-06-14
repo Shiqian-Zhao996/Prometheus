@@ -15,7 +15,7 @@ cd Prometheus
 
 ## 2. Install The Conda Environment
 
-Create the conda environment from the provided environment file:
+Create the conda environment from the provided environment file. By default, the environment name is `prometheus`, but you can customize it by editing the `name:` field in `prometheus_environment.yml` before running the command.
 
 ```bash
 conda env create -f prometheus_environment.yml
