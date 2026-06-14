@@ -98,16 +98,17 @@ CUDA_VISIBLE_DEVICES=0 accelerate launch main.py \
   --max_budget 200
 ```
 
-To accelerate the evaluation, you can reduce the query budget to `100`:
+To accelerate the evaluation, you can reduce the query budget to `100` and/or reduce `caption_repeat` to `100` or `200`:
 
 ```bash
 CUDA_VISIBLE_DEVICES=0 accelerate launch main.py \
   --oracle ShuttleDiffusion \
   --dataset DALLEPrompt \
-  --max_budget 100
+  --max_budget 100 \
+  --caption_repeat 200
 ```
 
-This significantly reduces runtime while usually causing only a limited performance reduction.
+Reducing `--max_budget` decreases the number of oracle image-generation queries, while reducing `--caption_repeat` decreases the number of BLIP caption samples used for dynamic modifier discovery. These settings can significantly reduce runtime while usually causing only a limited performance reduction.
 
 For this dataset, use:
 
