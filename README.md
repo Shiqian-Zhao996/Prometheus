@@ -65,6 +65,8 @@ Prometheus uses the spaCy transformer English model for parsing generated captio
 python -m spacy download en_core_web_trf
 ```
 
+This model is intentionally installed after environment creation instead of being listed in `prometheus_environment.yml`, because spaCy model packages are distributed separately and may fail during `conda env create` on some Python versions.
+
 ### Oracle Diffusion Models
 
 The oracle models are loaded through Hugging Face Diffusers:
