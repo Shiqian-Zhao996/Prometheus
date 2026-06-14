@@ -1,0 +1,50 @@
+image-0.jpg: Mickey mouse with blue hair holding a cigarette in a farm; sketch, vintage.
+image-1.jpg: Super mario dressed as a merchanic drinking a bottle of water in a car; movie poster, highly detailed.
+image-2.jpg: Darth vader dressed as a doctor riding a giraffe in a winery; sketch, hyperrealistic.
+image-3.jpg: Mickey mouse playing chess with darth vader while eating sushi in a zoo; realistic painting, closeup.
+image-4.jpg: A watermelon standing upright in a football stadium; digital art, highly detailed.
+image-5.jpg: A knife evaporating into thin air in a forest; cover of time magazine, highly detailed.
+image-6.jpg: A phone shaped like a bird in a swimming pool; advertisement, highly detailed.
+image-7.jpg: Luigi from super mario dancing with mickey mouse in a church; pixel art, vintage.
+image-8.jpg: Blueberries riding on a train in a circus; realistic painting, hyperrealistic.
+image-9.jpg: A cat sitting on top of loafers in a garden; portrait, highly detailed.
+image-10.jpg: Mickey mouse dressed as a shaman drinking a mug of beer in a bustling modern city; 35mm photograph, closeup.
+image-11.jpg: A sloth with yellow hair eating french fries in space; movie poster, closeup.
+image-12.jpg: Batman sleeping in a space station on mars; pixel art, 4k hd.
+image-13.jpg: A squirrel made out of plastic in a tree; renaissance painting, highly detailed.
+image-14.jpg: Tony the tiger playing chess with superman and winning in ancient rome; digital art, hyperrealistic.
+image-15.jpg: Darth vader talking to a squirrel in a restaurant; renaissance painting, hyperrealistic.
+image-16.jpg: Funny glasses reflecting the surroundings in a garden; pixel art, hyperrealistic.
+image-17.jpg: A cigarette reflecting the surroundings in a garden; 35mm photograph, vintage.
+image-18.jpg: Luigi from super mario with blue hair holding sushi in a medieval castle; sculpture, vintage.
+image-19.jpg: A boombox made out of solid gold in a subway; portrait, vintage.
+image-20.jpg: Tony the tiger playing billiards while eating a donut in a medieval castle; cyberpunk digital art, highly detailed.
+image-21.jpg: Darth vader dressed as the pope drinking a jug of milk in a cafeteria; cyberpunk digital art, 4k hd.
+image-22.jpg: A bag of marbles on fire in a mountainside scene; cinematic shot, award winning.
+image-23.jpg: Darth vader wearing blue jeans drinking a glass of wine in heaven; cyberpunk digital art, hyperrealistic.
+image-24.jpg: A knife being licked by a mouse in a space station on mars; comic-style art, vintage.
+image-25.jpg: A crown covered in chocolate in a winter wonderland; renaissance painting, highly detailed.
+image-26.jpg: A sloth driving a truck in a beach scene; 1960s cartoon, 4k hd.
+image-27.jpg: An alien dressed as a scientist drinking a cup of coffee in a sewer; victorian newspaper article, vintage.
+image-28.jpg: A phone made out of feathers in a beach scene; detailed scientific diagram, 4k hd.
+image-29.jpg: Marge simpson dressed as a mailman riding a giraffe in a bustling modern city; cover of national geographic magazine, highly detailed.
+image-30.jpg: Marge simpson with grey hair eating sushi in a tree; neoclassical painting, hyperrealistic.
+image-31.jpg: A phone sitting next to a compass in ancient egypt; comic-style art, 4k hd.
+image-32.jpg: A sloth with silver hair eating a donut in a church; realistic painting, vintage.
+image-33.jpg: A cigarette on fire in a bungalow on the beach; cinematic shot, highly detailed.
+image-34.jpg: Super mario holding a bag of marbles in a sewer; portrait, 4k hd.
+image-35.jpg: A compass made out of marble in a football stadium; selfie, vintage.
+image-36.jpg: A mug of beer giving off light in a police station; cyberpunk digital art, 4k hd.
+image-37.jpg: A fork melting into a puddle in a circus; pixel art, hyperrealistic.
+image-38.jpg: Darth vader riding a giraffe in a garden; watercolors by 5 year old, vintage.
+image-39.jpg: A bird melting into a puddle in a haunted house; realistic photograph, hyperrealistic.
+image-40.jpg: A camera slowly disappearing in a car; realistic photograph, closeup.
+image-41.jpg: Cherries evolving into a pencil in a beach scene; digital art, award winning.
+image-42.jpg: A sloth learning to fly in an academy; oil painting, vintage.
+image-43.jpg: Blueberries sitting on top of a boombox in a mountainside scene; on the television show seinfeld, highly detailed.
+image-44.jpg: A robot with green hair planting bushes in a school; pixel art, closeup.
+image-45.jpg: A sloth wearing sneakers and a worn-out brown t-shirt holding a pencil in a zoo; go pro footage, award winning.
+image-46.jpg: Superman with yellow hair planting flowers in a zen garden; book cover, highly detailed.
+image-47.jpg: Princess jasmine with grey hair holding a bottle of water in a playground; cinematic shot, 4k hd.
+image-48.jpg: A wedding ring reflecting the surroundings in a car; movie poster, vintage.
+image-49.jpg: A watermelon sitting on top of a phone in a desert; victorian newspaper article, highly detailed.
