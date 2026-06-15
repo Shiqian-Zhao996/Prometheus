@@ -75,7 +75,7 @@ The oracle models are loaded through Hugging Face Diffusers:
 - `black-forest-labs/FLUX.1-schnell`
 - `shuttleai/shuttle-3-diffusion`
 
-Diffusers will download these models on first use. Make sure your environment has network access and, if required by the model provider, that you have accepted the model license and logged in to Hugging Face. See the official Hugging Face CLI login documentation: https://huggingface.co/docs/huggingface_hub/guides/cli#hf-auth-login
+Diffusers will download these models on first use. Make sure your environment has network access and, if required by the model provider, that you have accepted the model license and logged in to Hugging Face. See the official Hugging Face CLI login documentation: https://huggingface.co/docs/huggingface_hub/guides/cli#hf-auth-login. You can login with this command:
 
 ```bash
 hf auth login
@@ -124,7 +124,6 @@ Available arguments:
 - `--caption_repeat`: number of sampled captions for dynamic modifier discovery
 - `--resolution`: input image resolution
 
-The current implementation prints per-prompt results and final averages for `CLIP-II`, `LPIPS`, `SBERT`, and `ASR` at the end of execution. It does not write result files to disk.
 
 ## Citation
 
